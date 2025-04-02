@@ -1,4 +1,5 @@
 # Sales-Data-2016-2018
+![Sales Data 2016-2018](https://github.com/user-attachments/assets/8b2aad8f-9b2a-47dd-b247-15299ba5ea40)
 
 Dataset:The dataset used for this analysis is "Sales Data 2016-2018," sourced from internal business records. This dataset provides a comprehensive overview of revenue trends, sales performance, and business insights from 2016 to 2018. The dataset includes key metrics such as revenue by year, month, country, order method, product line, and sales manager.
 
