@@ -1,7 +1,7 @@
 # Sales Data 2016-2018
 ![Sales Data 2016-2018](https://github.com/user-attachments/assets/8b2aad8f-9b2a-47dd-b247-15299ba5ea40)
 
-Dataset:The dataset used for this analysis is "Sales Data 2016-2018," sourced from internal business records. This dataset provides a comprehensive overview of revenue trends, sales performance, and business insights from 2016 to 2018. The dataset includes key metrics such as revenue by year, month, country, order method, product line, and sales manager.
+Dataset:The dataset used for this analysis is "Sales Data 2016-2018," . This dataset provides a comprehensive overview of revenue trends, sales performance, and business insights from 2016 to 2018. The dataset includes key metrics such as revenue by year, month, country, order method, product line, and sales manager.
 
 Overview:The analysis of sales data from 2016 to 2018 reveals important insights into business performance and revenue trends. Over the years, revenue has shown a steady increase, indicating business growth. The dataset allows us to examine sales performance across different dimensions, such as product categories, geographical locations, and sales strategies. Understanding these patterns is crucial for optimizing sales operations, improving product offerings, and enhancing market strategies.
 
